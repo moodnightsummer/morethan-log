@@ -6,8 +6,8 @@ const CONFIG = {
     role: "backend developer",
     bio: "Aim for consistency",
     email: "devzhoiz@gmail.com",
-    linkedin: "https://www.linkedin.com/in/%EC%9E%AC%EC%9D%BC-%EC%8B%A0-92b512302/",
-    github: "https://github.com/moodnightsummer",
+    linkedin: "%EC%9E%AC%EC%9D%BC-%EC%8B%A0-92b512302/",
+    github: "moodnightsummer",
     instagram: "",
   },
   projects: [
